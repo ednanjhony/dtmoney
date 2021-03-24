@@ -1,6 +1,12 @@
 ## Techs
-* [ ] React
-* [ ] Typescript
+
+- [ ] React
+- [ ] Typescript
 
 ## Demonstration
-...Soon
+
+<img src="./assets/app1.png" />
+
+<img src="./assets/app2.png" />
+
+<img src="./assets/app3.png" />
